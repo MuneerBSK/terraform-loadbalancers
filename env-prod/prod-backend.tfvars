@@ -1,3 +1,3 @@
 bucket = "b53-terraform-bucket"
-key    = "vpc/prod/terraform.tfstate"
+key    = "alb/dev/terraform.tfstate"
 region = "us-east-1"
